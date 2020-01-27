@@ -1,0 +1,2 @@
+# CNAME.io
+CNAME
